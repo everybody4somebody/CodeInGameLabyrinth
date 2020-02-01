@@ -2,10 +2,8 @@ import java.util.*;
 import java.io.*;
 import java.math.*;
 import java.awt.Point;
-/**
- * Auto-generated code below aims at helping you parse
- * the standard input according to the problem statement.
- **/
+
+
 class PointQueue implements Comparable<PointQueue>{
     private Point point;
     private Integer priority;
